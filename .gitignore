@@ -1,0 +1,45 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~
+*.pyc.*
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# Archivos de configuración locales
+*.log
+*.ini
+*.cfg
+*.local
+*.cache
+
+# Directorios temporales
+tmp/
+temp/
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints
+
+# IDEs/editores
+.vscode/
+.idea/
+*.swp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Salidas del script
+output/
